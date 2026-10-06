@@ -1,0 +1,6 @@
+{
+  "name": "NOVA STORE — Modern E-Commerce Platform",
+  "description": "A premium, full-featured modern e-commerce storefront for Pakistan with PKR pricing, cash on delivery, bank transfer, real-time search, filters, and streamlined checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

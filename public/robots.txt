@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+Allow: /products
+Allow: /product/
+Allow: /category/
+Allow: /search
+Allow: /about
+Allow: /contact
+Allow: /shipping-returns
+Allow: /privacy-terms
+
+# Disallow private and administrative areas
+Disallow: /admin/
+Disallow: /account/
+Disallow: /checkout
+Disallow: /order-confirmation/
+
+Sitemap: https://novastore.pk/sitemap.xml

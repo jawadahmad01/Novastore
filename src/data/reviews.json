@@ -1,0 +1,74 @@
+[
+  {
+    "id": "rev-1",
+    "productId": "prod-el-001",
+    "userName": "Hamza Tariq",
+    "userCity": "Lahore",
+    "rating": 5,
+    "date": "2026-03-12",
+    "title": "Outstanding noise cancellation for work and travel",
+    "comment": "Ordered this to Lahore and received via Cash on Delivery in 2 days. The ANC cuts out ceiling fan and street noise completely. Battery really does last over 35 hours. Very impressed with the build quality!",
+    "verifiedPurchase": true,
+    "helpfulCount": 24
+  },
+  {
+    "id": "rev-2",
+    "productId": "prod-el-001",
+    "userName": "Ayesha Malik",
+    "userCity": "Islamabad",
+    "rating": 5,
+    "date": "2026-03-08",
+    "title": "Super comfortable memory foam cups",
+    "comment": "I wear these 6 hours a day for remote meetings. Doesn't press on glasses, sound is rich without muddy bass. Best purchase of this year.",
+    "verifiedPurchase": true,
+    "helpfulCount": 18
+  },
+  {
+    "id": "rev-3",
+    "productId": "prod-el-002",
+    "userName": "Bilal Siddiqui",
+    "userCity": "Karachi",
+    "rating": 5,
+    "date": "2026-03-14",
+    "title": "Crisp AMOLED and reliable battery",
+    "comment": "Screen visibility in midday Karachi sun is great. Heart rate matches my medical oximeter closely. Very pleased with the UI speed.",
+    "verifiedPurchase": true,
+    "helpfulCount": 15
+  },
+  {
+    "id": "rev-4",
+    "productId": "prod-ap-001",
+    "userName": "Zain Farooq",
+    "userCity": "Faisalabad",
+    "rating": 5,
+    "date": "2026-03-10",
+    "title": "Truly heavyweight premium cotton",
+    "comment": "Usually t-shirts in local stores are thin and stretch after one wash. This 240 GSM fabric is structured, collar stays tight, and feels luxurious.",
+    "verifiedPurchase": true,
+    "helpfulCount": 31
+  },
+  {
+    "id": "rev-5",
+    "productId": "prod-ac-001",
+    "userName": "Usman Shah",
+    "userCity": "Rawalpindi",
+    "rating": 5,
+    "date": "2026-03-04",
+    "title": "Real leather, top tier stitching",
+    "comment": "The leather aroma upon unboxing was proof enough. Slim profile fits in trouser pocket without bulging. Fits Pakistani currency notes smoothly without folding.",
+    "verifiedPurchase": true,
+    "helpfulCount": 19
+  },
+  {
+    "id": "rev-6",
+    "productId": "prod-hl-002",
+    "userName": "Maryam Noor",
+    "userCity": "Peshawar",
+    "rating": 5,
+    "date": "2026-03-01",
+    "title": "Perfect morning pour-over ritual",
+    "comment": "The ceramic dripper retains heat much better than plastic v60s. Glass carafe is durable and the packaging was extremely secure with bubble wrap.",
+    "verifiedPurchase": true,
+    "helpfulCount": 12
+  }
+]
